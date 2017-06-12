@@ -1,0 +1,255 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8690A (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2039 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Racedius_Bot\FinishedGAME1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Racedius_Bot\FinishedGAME1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Racedius_Bot\FinishedGAME1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Racedius_Bot\FinishedGAME1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Racedius_Bot\FinishedGAME1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Racedius_Bot\FinishedGAME1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Racedius_Bot\FinishedGAME1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Racedius_Bot\FinishedGAME1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Racedius_Bot\FinishedGAME1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Racedius_Bot\FinishedGAME1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: E:\Racedius_Bot\FinishedGAME1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Racedius_Bot\FinishedGAME1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.622662 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.238891 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.486668 ms (FindLiveObjects: 0.032501 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.407552 ms  DeleteObjects: 0.010691 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.643468 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.467851 ms (FindLiveObjects: 0.032501 ms CreateObjectMapping: 0.035495 ms MarkObjects: 0.393867 ms  DeleteObjects: 0.005987 ms)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.872411 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.584601 ms (FindLiveObjects: 0.057305 ms CreateObjectMapping: 0.038916 ms MarkObjects: 0.478970 ms  DeleteObjects: 0.008980 ms)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.854449 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.642334 ms (FindLiveObjects: 0.060726 ms CreateObjectMapping: 0.039344 ms MarkObjects: 0.532427 ms  DeleteObjects: 0.009408 ms)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.825369 ms
+
+Unloading 342 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.456305 ms (FindLiveObjects: 0.025231 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.213826 ms  DeleteObjects: 0.180897 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.431929 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.543546 ms (FindLiveObjects: 0.035922 ms CreateObjectMapping: 0.037633 ms MarkObjects: 0.458015 ms  DeleteObjects: 0.010691 ms)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.864713 ms
+
+Unloading 342 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.452884 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.034639 ms MarkObjects: 0.209549 ms  DeleteObjects: 0.180897 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.407980 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.524729 ms (FindLiveObjects: 0.033356 ms CreateObjectMapping: 0.035495 ms MarkObjects: 0.445186 ms  DeleteObjects: 0.009836 ms)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.006694 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.637202 ms (FindLiveObjects: 0.057733 ms CreateObjectMapping: 0.043192 ms MarkObjects: 0.526012 ms  DeleteObjects: 0.009836 ms)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.807407 ms
+
+Unloading 342 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.452884 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.201424 ms  DeleteObjects: 0.189450 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614964 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.577330 ms (FindLiveObjects: 0.056877 ms CreateObjectMapping: 0.053028 ms MarkObjects: 0.453311 ms  DeleteObjects: 0.012829 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.900636 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.474266 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.019244 ms MarkObjects: 0.288665 ms  DeleteObjects: 0.124874 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.408835 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 0.469134 ms (FindLiveObjects: 0.028652 ms CreateObjectMapping: 0.030790 ms MarkObjects: 0.398999 ms  DeleteObjects: 0.009836 ms)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ignore the chaser 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d00 -> priority: 1 
+  Thread -> id: 2a78 -> priority: 1 

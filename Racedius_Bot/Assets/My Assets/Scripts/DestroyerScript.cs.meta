@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 14a4efc360bd28d47b41b834a168e311
+timeCreated: 1456681344
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameOverCanvas: {fileID: 130986, guid: 28728d97cfb982e49a3a614daed4866f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
