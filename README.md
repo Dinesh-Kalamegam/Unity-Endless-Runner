@@ -25,8 +25,3 @@ Allows you to return to main menu as well as volume control
 
 A tutorial which explains the obstacles and gameplay mechanics in more detail as well as showing how they look like in game
 
-# Link to the game
-The Repository has the project files of the game to find the actual game itself use this link here 
-https://onedrive.live.com/?authkey=%21ADrybBXj_47ETEk&id=C4E2B8C694C0E5BF%211101&cid=C4E2B8C694C0E5BF then extract the folder 
-
-The game is intended to be for a Windows PC and ideally use your max resolution as well as using "fantastic" for the graphics quality
